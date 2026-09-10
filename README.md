@@ -41,41 +41,41 @@ Instead of treating an LLM as a database, Campus Collective strictly implements:
 
 ```mermaid
 flowchart TD
-    subgraph Ingestion Pipeline
-        E[events.csv] --> B[build_graph.py]
-        M[members.json] --> B
-        P[policies.txt] --> B
-        B --> KG[knowledge.json<br/>74 Nodes | 346 Edges]
+    subgraph IP["Ingestion Pipeline"]
+        E["events.csv"] --> B["build_graph.py"]
+        M["members.json"] --> B
+        P["policies.txt"] --> B
+        B --> KG["knowledge.json<br>74 Nodes and 346 Edges"]
     end
 
-    subgraph User Interaction
-        UQ[User Query] --> ER[Entity Resolver<br/>Deterministic Pattern Matcher]
-        ER --> SN[Seed Nodes: POL003]
+    subgraph UI["User Interaction"]
+        UQ["User Query"] --> ER["Entity Resolver<br>Deterministic Pattern Matcher"]
+        ER --> SN["Seed Nodes: POL003"]
     end
 
-    subgraph Graph Traversal Engine
-        SN --> H1[1-Hop Traversal]
-        H1 --> H2[2-Hop Traversal<br/>Strict Max Depth = 2]
-        H2 --> SG[Induced Subgraph Context]
+    subgraph GTE["Graph Traversal Engine"]
+        SN --> H1["1-Hop Traversal"]
+        H1 --> H2["2-Hop Traversal<br>Strict Max Depth = 2"]
+        H2 --> SG["Induced Subgraph Context"]
     end
 
-    subgraph Memory Manager
-        MEM[Sliding Window<br/>Last 3 Interactions]
+    subgraph MM["Memory Manager"]
+        MEM["Sliding Window<br>Last 3 Interactions"]
     end
 
-    subgraph Reasoning Layer
-        SG --> ROUTE{Engine Mode?}
+    subgraph RL["Reasoning Layer"]
+        SG --> ROUTE{"Engine Mode?"}
         MEM --> ROUTE
-        ROUTE -->|Gemini Enhanced| GEMINI[Google Gemini API<br/>Configurable gemini-2.5-flash]
-        ROUTE -->|Offline Mode| OFFLINE[Deterministic QA Engine<br/>Verified Template Rules]
-        GEMINI --> VAL[Source ID Validator<br/>Audit against knowledge.json]
+        ROUTE -->|Gemini Enhanced| GEMINI["Google Gemini API<br>Configurable gemini-2.5-flash"]
+        ROUTE -->|Offline Mode| OFFLINE["Deterministic QA Engine<br>Verified Template Rules"]
+        GEMINI --> VAL["Source ID Validator<br>Audit against knowledge.json"]
     end
 
-    subgraph UI Command Center
-        VAL --> CR[Intelligence Report]
+    subgraph UIC["UI Command Center"]
+        VAL --> CR["Intelligence Report"]
         OFFLINE --> CR
-        SG --> ANIM[Interactive Force Graph<br/>Animated Traversal Pulse]
-        CR --> WHY["Why This Answer?"<br/>5-Step Trace Accordion]
+        SG --> ANIM["Interactive Force Graph<br>Animated Traversal Pulse"]
+        CR --> WHY["Why This Answer?<br>5-Step Trace Accordion"]
     end
 ```
 
