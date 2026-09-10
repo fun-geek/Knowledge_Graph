@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #0B0B12;
+  --color-surface: #14131D;
+  --color-surfaceHover: #1C1A28;
+  --color-borderDark: #2A2638;
+  --color-primaryPurple: #6F2982;
+  --color-aiBlue: #2B3AF3;
+  --color-memberCoral: #FF7071;
+  --color-policyRed: #E84855;
+  --color-projectBronze: #B56B45;
+  --color-textMain: #F5F3F7;
+  --color-textMuted: #A8A3B2;
+}
+
+body {
+  background-color: #0B0B12;
+  color: #F5F3F7;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
+}
+
+/* Custom Sleek Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0B0B12;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2A2638;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #6F2982;
+}
+
+.glass-panel {
+  background: rgba(20, 19, 29, 0.75);
+  backdrop-filter: blur(12px);
+  border: 1px solid #2A2638;
+}
+
+.glass-panel-glow {
+  background: rgba(20, 19, 29, 0.85);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(111, 41, 130, 0.4);
+  box-shadow: 0 0 15px rgba(111, 41, 130, 0.15);
+}

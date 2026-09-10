@@ -1,0 +1,82 @@
+[
+  {
+    "id": "M001",
+    "name": "Ananya Roy",
+    "email": "ananya.roy@campustech.edu",
+    "role": "Committee Chair",
+    "domains": ["AI/ML", "Cloud"],
+    "active_projects": ["Campus AI Lab Setup", "Cloud Credits Program"]
+  },
+  {
+    "id": "M002",
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@campustech.edu",
+    "role": "Vice Chair",
+    "domains": ["Web Dev", "Cybersecurity"],
+    "active_projects": ["Student Portal Revamp", "Security Audit Drive"]
+  },
+  {
+    "id": "M003",
+    "name": "Sneha Iyer",
+    "email": "sneha.iyer@campustech.edu",
+    "role": "AI/ML Lead",
+    "domains": ["AI/ML", "Data Science"],
+    "active_projects": ["NLP Study Group", "Kaggle Bootcamp"]
+  },
+  {
+    "id": "M004",
+    "name": "Vikram Nair",
+    "email": "vikram.nair@campustech.edu",
+    "role": "Cloud Lead",
+    "domains": ["Cloud", "DevOps"],
+    "active_projects": ["Cloud Credits Program", "K8s Workshop Series"]
+  },
+  {
+    "id": "M005",
+    "name": "Priya Desai",
+    "email": "priya.desai@campustech.edu",
+    "role": "Web Dev Lead",
+    "domains": ["Web Dev"],
+    "active_projects": ["Student Portal Revamp", "Hackathon 2026"]
+  },
+  {
+    "id": "M006",
+    "name": "Arjun Kapoor",
+    "email": "arjun.kapoor@campustech.edu",
+    "role": "Treasurer",
+    "domains": ["Budget & Finance"],
+    "active_projects": ["Annual Budget Review"]
+  },
+  {
+    "id": "M007",
+    "name": "Divya Menon",
+    "email": "divya.menon@campustech.edu",
+    "role": "Cybersecurity Lead",
+    "domains": ["Cybersecurity"],
+    "active_projects": ["Security Audit Drive", "CTF Club"]
+  },
+  {
+    "id": "M008",
+    "name": "Karan Malhotra",
+    "email": "karan.malhotra@campustech.edu",
+    "role": "Lab Coordinator",
+    "domains": ["Robotics", "IoT"],
+    "active_projects": ["Robotics Lab Access Tiers", "IoT Sensor Kits"]
+  },
+  {
+    "id": "M009",
+    "name": "Neha Bhatt",
+    "email": "neha.bhatt@campustech.edu",
+    "role": "Events Coordinator",
+    "domains": ["AI/ML", "Web Dev", "Cloud"],
+    "active_projects": ["Hackathon 2026", "Speaker Series"]
+  },
+  {
+    "id": "M010",
+    "name": "Aditya Singh",
+    "email": "aditya.singh@campustech.edu",
+    "role": "Approvals Officer",
+    "domains": ["Governance"],
+    "active_projects": ["Event Approval Workflow Revamp"]
+  }
+]

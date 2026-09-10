@@ -1,0 +1,3362 @@
+{
+  "nodes": [
+    {
+      "id": "D_AI_ML",
+      "type": "domain",
+      "name": "AI/ML",
+      "properties": {
+        "category": "Technical & Operational Domain",
+        "normalized_id": "D_AI_ML"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "D_CLOUD",
+      "type": "domain",
+      "name": "Cloud",
+      "properties": {
+        "category": "Technical & Operational Domain",
+        "normalized_id": "D_CLOUD"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "D_WEB_DEV",
+      "type": "domain",
+      "name": "Web Dev",
+      "properties": {
+        "category": "Technical & Operational Domain",
+        "normalized_id": "D_WEB_DEV"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "D_CYBERSECURITY",
+      "type": "domain",
+      "name": "Cybersecurity",
+      "properties": {
+        "category": "Technical & Operational Domain",
+        "normalized_id": "D_CYBERSECURITY"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "D_ROBOTICS",
+      "type": "domain",
+      "name": "Robotics",
+      "properties": {
+        "category": "Technical & Operational Domain",
+        "normalized_id": "D_ROBOTICS"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "D_IOT",
+      "type": "domain",
+      "name": "IoT",
+      "properties": {
+        "category": "Technical & Operational Domain",
+        "normalized_id": "D_IOT"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "D_DATA_SCIENCE",
+      "type": "domain",
+      "name": "Data Science",
+      "properties": {
+        "category": "Technical & Operational Domain",
+        "normalized_id": "D_DATA_SCIENCE"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "D_BUDGET_FINANCE",
+      "type": "domain",
+      "name": "Budget & Finance",
+      "properties": {
+        "category": "Technical & Operational Domain",
+        "normalized_id": "D_BUDGET_FINANCE"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "D_GOVERNANCE",
+      "type": "domain",
+      "name": "Governance",
+      "properties": {
+        "category": "Technical & Operational Domain",
+        "normalized_id": "D_GOVERNANCE"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "D_DEVOPS",
+      "type": "domain",
+      "name": "DevOps",
+      "properties": {
+        "category": "Technical & Operational Domain",
+        "normalized_id": "D_DEVOPS"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "M001",
+      "type": "member",
+      "name": "Ananya Roy",
+      "properties": {
+        "email": "ananya.roy@campustech.edu",
+        "role": "Committee Chair",
+        "domains": [
+          "AI/ML",
+          "Cloud"
+        ],
+        "active_projects": [
+          "Campus AI Lab Setup",
+          "Cloud Credits Program"
+        ]
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "P_CAMPUS_AI_LAB_SETUP",
+      "type": "project",
+      "name": "Campus AI Lab Setup",
+      "properties": {
+        "status": "Active",
+        "normalized_id": "P_CAMPUS_AI_LAB_SETUP"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "P_CLOUD_CREDITS_PROGRAM",
+      "type": "project",
+      "name": "Cloud Credits Program",
+      "properties": {
+        "status": "Active",
+        "normalized_id": "P_CLOUD_CREDITS_PROGRAM"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "M002",
+      "type": "member",
+      "name": "Rohan Mehta",
+      "properties": {
+        "email": "rohan.mehta@campustech.edu",
+        "role": "Vice Chair",
+        "domains": [
+          "Web Dev",
+          "Cybersecurity"
+        ],
+        "active_projects": [
+          "Student Portal Revamp",
+          "Security Audit Drive"
+        ]
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "P_STUDENT_PORTAL_REVAMP",
+      "type": "project",
+      "name": "Student Portal Revamp",
+      "properties": {
+        "status": "Active",
+        "normalized_id": "P_STUDENT_PORTAL_REVAMP"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "P_SECURITY_AUDIT_DRIVE",
+      "type": "project",
+      "name": "Security Audit Drive",
+      "properties": {
+        "status": "Active",
+        "normalized_id": "P_SECURITY_AUDIT_DRIVE"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "M003",
+      "type": "member",
+      "name": "Sneha Iyer",
+      "properties": {
+        "email": "sneha.iyer@campustech.edu",
+        "role": "AI/ML Lead",
+        "domains": [
+          "AI/ML",
+          "Data Science"
+        ],
+        "active_projects": [
+          "NLP Study Group",
+          "Kaggle Bootcamp"
+        ]
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "P_NLP_STUDY_GROUP",
+      "type": "project",
+      "name": "NLP Study Group",
+      "properties": {
+        "status": "Active",
+        "normalized_id": "P_NLP_STUDY_GROUP"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "P_KAGGLE_BOOTCAMP",
+      "type": "project",
+      "name": "Kaggle Bootcamp",
+      "properties": {
+        "status": "Active",
+        "normalized_id": "P_KAGGLE_BOOTCAMP"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "M004",
+      "type": "member",
+      "name": "Vikram Nair",
+      "properties": {
+        "email": "vikram.nair@campustech.edu",
+        "role": "Cloud Lead",
+        "domains": [
+          "Cloud",
+          "DevOps"
+        ],
+        "active_projects": [
+          "Cloud Credits Program",
+          "K8s Workshop Series"
+        ]
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "P_K8S_WORKSHOP_SERIES",
+      "type": "project",
+      "name": "K8s Workshop Series",
+      "properties": {
+        "status": "Active",
+        "normalized_id": "P_K8S_WORKSHOP_SERIES"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "M005",
+      "type": "member",
+      "name": "Priya Desai",
+      "properties": {
+        "email": "priya.desai@campustech.edu",
+        "role": "Web Dev Lead",
+        "domains": [
+          "Web Dev"
+        ],
+        "active_projects": [
+          "Student Portal Revamp",
+          "Hackathon 2026"
+        ]
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "P_HACKATHON_2026",
+      "type": "project",
+      "name": "Hackathon 2026",
+      "properties": {
+        "status": "Active",
+        "normalized_id": "P_HACKATHON_2026"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "M006",
+      "type": "member",
+      "name": "Arjun Kapoor",
+      "properties": {
+        "email": "arjun.kapoor@campustech.edu",
+        "role": "Treasurer",
+        "domains": [
+          "Budget & Finance"
+        ],
+        "active_projects": [
+          "Annual Budget Review"
+        ]
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "P_ANNUAL_BUDGET_REVIEW",
+      "type": "project",
+      "name": "Annual Budget Review",
+      "properties": {
+        "status": "Active",
+        "normalized_id": "P_ANNUAL_BUDGET_REVIEW"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "M007",
+      "type": "member",
+      "name": "Divya Menon",
+      "properties": {
+        "email": "divya.menon@campustech.edu",
+        "role": "Cybersecurity Lead",
+        "domains": [
+          "Cybersecurity"
+        ],
+        "active_projects": [
+          "Security Audit Drive",
+          "CTF Club"
+        ]
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "P_CTF_CLUB",
+      "type": "project",
+      "name": "CTF Club",
+      "properties": {
+        "status": "Active",
+        "normalized_id": "P_CTF_CLUB"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "M008",
+      "type": "member",
+      "name": "Karan Malhotra",
+      "properties": {
+        "email": "karan.malhotra@campustech.edu",
+        "role": "Lab Coordinator",
+        "domains": [
+          "Robotics",
+          "IoT"
+        ],
+        "active_projects": [
+          "Robotics Lab Access Tiers",
+          "IoT Sensor Kits"
+        ]
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "P_ROBOTICS_LAB_ACCESS_TIERS",
+      "type": "project",
+      "name": "Robotics Lab Access Tiers",
+      "properties": {
+        "status": "Active",
+        "normalized_id": "P_ROBOTICS_LAB_ACCESS_TIERS"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "P_IOT_SENSOR_KITS",
+      "type": "project",
+      "name": "IoT Sensor Kits",
+      "properties": {
+        "status": "Active",
+        "normalized_id": "P_IOT_SENSOR_KITS"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "M009",
+      "type": "member",
+      "name": "Neha Bhatt",
+      "properties": {
+        "email": "neha.bhatt@campustech.edu",
+        "role": "Events Coordinator",
+        "domains": [
+          "AI/ML",
+          "Web Dev",
+          "Cloud"
+        ],
+        "active_projects": [
+          "Hackathon 2026",
+          "Speaker Series"
+        ]
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "P_SPEAKER_SERIES",
+      "type": "project",
+      "name": "Speaker Series",
+      "properties": {
+        "status": "Active",
+        "normalized_id": "P_SPEAKER_SERIES"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "M010",
+      "type": "member",
+      "name": "Aditya Singh",
+      "properties": {
+        "email": "aditya.singh@campustech.edu",
+        "role": "Approvals Officer",
+        "domains": [
+          "Governance"
+        ],
+        "active_projects": [
+          "Event Approval Workflow Revamp"
+        ]
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "P_EVENT_APPROVAL_WORKFLOW_REVAMP",
+      "type": "project",
+      "name": "Event Approval Workflow Revamp",
+      "properties": {
+        "status": "Active",
+        "normalized_id": "P_EVENT_APPROVAL_WORKFLOW_REVAMP"
+      },
+      "source": "members.json"
+    },
+    {
+      "id": "E001",
+      "type": "event",
+      "name": "Intro to Neural Networks Workshop",
+      "properties": {
+        "date": "2026-01-12",
+        "domain": "AI/ML",
+        "lead_email": "sneha.iyer@campustech.edu",
+        "attendee_count": 85
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E002",
+      "type": "event",
+      "name": "React Fundamentals Bootcamp",
+      "properties": {
+        "date": "2026-01-19",
+        "domain": "Web Dev",
+        "lead_email": "priya.desai@campustech.edu",
+        "attendee_count": 60
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E003",
+      "type": "event",
+      "name": "AWS Cloud Essentials Talk",
+      "properties": {
+        "date": "2026-01-26",
+        "domain": "Cloud",
+        "lead_email": "vikram.nair@campustech.edu",
+        "attendee_count": 70
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E004",
+      "type": "event",
+      "name": "Ethical Hacking 101",
+      "properties": {
+        "date": "2026-02-02",
+        "domain": "Cybersecurity",
+        "lead_email": "divya.menon@campustech.edu",
+        "attendee_count": 55
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E005",
+      "type": "event",
+      "name": "Kaggle Competition Kickoff",
+      "properties": {
+        "date": "2026-02-09",
+        "domain": "AI/ML",
+        "lead_email": "sneha.iyer@campustech.edu",
+        "attendee_count": 40
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E006",
+      "type": "event",
+      "name": "Kubernetes Deep Dive",
+      "properties": {
+        "date": "2026-02-16",
+        "domain": "Cloud",
+        "lead_email": "vikram.nair@campustech.edu",
+        "attendee_count": 50
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E007",
+      "type": "event",
+      "name": "Full Stack Hackathon Prep",
+      "properties": {
+        "date": "2026-02-23",
+        "domain": "Web Dev",
+        "lead_email": "priya.desai@campustech.edu",
+        "attendee_count": 90
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E008",
+      "type": "event",
+      "name": "Robotics Lab Open House",
+      "properties": {
+        "date": "2026-03-02",
+        "domain": "Robotics",
+        "lead_email": "karan.malhotra@campustech.edu",
+        "attendee_count": 45
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E009",
+      "type": "event",
+      "name": "IoT Sensor Kit Build Day",
+      "properties": {
+        "date": "2026-03-09",
+        "domain": "IoT",
+        "lead_email": "karan.malhotra@campustech.edu",
+        "attendee_count": 38
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E010",
+      "type": "event",
+      "name": "Capture The Flag Night",
+      "properties": {
+        "date": "2026-03-16",
+        "domain": "Cybersecurity",
+        "lead_email": "divya.menon@campustech.edu",
+        "attendee_count": 65
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E011",
+      "type": "event",
+      "name": "NLP Study Group Session 3",
+      "properties": {
+        "date": "2026-03-23",
+        "domain": "AI/ML",
+        "lead_email": "sneha.iyer@campustech.edu",
+        "attendee_count": 30
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E012",
+      "type": "event",
+      "name": "Serverless Architecture Talk",
+      "properties": {
+        "date": "2026-03-30",
+        "domain": "Cloud",
+        "lead_email": "vikram.nair@campustech.edu",
+        "attendee_count": 42
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E013",
+      "type": "event",
+      "name": "Frontend Design Systems Workshop",
+      "properties": {
+        "date": "2026-04-06",
+        "domain": "Web Dev",
+        "lead_email": "priya.desai@campustech.edu",
+        "attendee_count": 58
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E014",
+      "type": "event",
+      "name": "Annual Budget Planning Session",
+      "properties": {
+        "date": "2026-04-13",
+        "domain": "Budget & Finance",
+        "lead_email": "arjun.kapoor@campustech.edu",
+        "attendee_count": 20
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E015",
+      "type": "event",
+      "name": "Hackathon 2026 Opening Ceremony",
+      "properties": {
+        "date": "2026-04-20",
+        "domain": "Web Dev",
+        "lead_email": "neha.bhatt@campustech.edu",
+        "attendee_count": 150
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E016",
+      "type": "event",
+      "name": "Cloud Credits Program Info Day",
+      "properties": {
+        "date": "2026-04-27",
+        "domain": "Cloud",
+        "lead_email": "vikram.nair@campustech.edu",
+        "attendee_count": 48
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E017",
+      "type": "event",
+      "name": "AI Ethics Panel Discussion",
+      "properties": {
+        "date": "2026-05-04",
+        "domain": "AI/ML",
+        "lead_email": "ananya.roy@campustech.edu",
+        "attendee_count": 75
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E018",
+      "type": "event",
+      "name": "Security Audit Findings Review",
+      "properties": {
+        "date": "2026-05-11",
+        "domain": "Cybersecurity",
+        "lead_email": "divya.menon@campustech.edu",
+        "attendee_count": 35
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E019",
+      "type": "event",
+      "name": "Docker & CI/CD Pipeline Workshop",
+      "properties": {
+        "date": "2026-05-18",
+        "domain": "Cloud",
+        "lead_email": "vikram.nair@campustech.edu",
+        "attendee_count": 52
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E020",
+      "type": "event",
+      "name": "Speaker Series: Careers in ML",
+      "properties": {
+        "date": "2026-05-25",
+        "domain": "AI/ML",
+        "lead_email": "neha.bhatt@campustech.edu",
+        "attendee_count": 110
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E021",
+      "type": "event",
+      "name": "Robotics Arm Programming Lab",
+      "properties": {
+        "date": "2026-06-01",
+        "domain": "Robotics",
+        "lead_email": "karan.malhotra@campustech.edu",
+        "attendee_count": 33
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E022",
+      "type": "event",
+      "name": "Web Accessibility Best Practices",
+      "properties": {
+        "date": "2026-06-08",
+        "domain": "Web Dev",
+        "lead_email": "priya.desai@campustech.edu",
+        "attendee_count": 40
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E023",
+      "type": "event",
+      "name": "Vulnerability Scanning Clinic",
+      "properties": {
+        "date": "2026-06-15",
+        "domain": "Cybersecurity",
+        "lead_email": "divya.menon@campustech.edu",
+        "attendee_count": 28
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E024",
+      "type": "event",
+      "name": "Data Science Career Fair",
+      "properties": {
+        "date": "2026-06-22",
+        "domain": "Data Science",
+        "lead_email": "sneha.iyer@campustech.edu",
+        "attendee_count": 95
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E025",
+      "type": "event",
+      "name": "IoT Home Automation Demo",
+      "properties": {
+        "date": "2026-06-29",
+        "domain": "IoT",
+        "lead_email": "karan.malhotra@campustech.edu",
+        "attendee_count": 37
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E026",
+      "type": "event",
+      "name": "Cloud Cost Optimization Talk",
+      "properties": {
+        "date": "2026-07-06",
+        "domain": "Cloud",
+        "lead_email": "vikram.nair@campustech.edu",
+        "attendee_count": 44
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E027",
+      "type": "event",
+      "name": "Event Approval Workflow Training",
+      "properties": {
+        "date": "2026-07-13",
+        "domain": "Governance",
+        "lead_email": "aditya.singh@campustech.edu",
+        "attendee_count": 25
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E028",
+      "type": "event",
+      "name": "Student Portal Revamp Demo Day",
+      "properties": {
+        "date": "2026-07-20",
+        "domain": "Web Dev",
+        "lead_email": "priya.desai@campustech.edu",
+        "attendee_count": 62
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E029",
+      "type": "event",
+      "name": "CTF Club Monthly Meetup",
+      "properties": {
+        "date": "2026-07-27",
+        "domain": "Cybersecurity",
+        "lead_email": "divya.menon@campustech.edu",
+        "attendee_count": 30
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E030",
+      "type": "event",
+      "name": "K8s Workshop Series Finale",
+      "properties": {
+        "date": "2026-08-03",
+        "domain": "Cloud",
+        "lead_email": "vikram.nair@campustech.edu",
+        "attendee_count": 54
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E031",
+      "type": "event",
+      "name": "AI in Healthcare Seminar",
+      "properties": {
+        "date": "2026-08-10",
+        "domain": "AI/ML",
+        "lead_email": "ananya.roy@campustech.edu",
+        "attendee_count": 80
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E032",
+      "type": "event",
+      "name": "Governance & Policy Roundtable",
+      "properties": {
+        "date": "2026-08-17",
+        "domain": "Governance",
+        "lead_email": "aditya.singh@campustech.edu",
+        "attendee_count": 22
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E033",
+      "type": "event",
+      "name": "Budget Allocation Q3 Review",
+      "properties": {
+        "date": "2026-08-24",
+        "domain": "Budget & Finance",
+        "lead_email": "arjun.kapoor@campustech.edu",
+        "attendee_count": 18
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E034",
+      "type": "event",
+      "name": "Hackathon 2026 Finale",
+      "properties": {
+        "date": "2026-08-31",
+        "domain": "Web Dev",
+        "lead_email": "neha.bhatt@campustech.edu",
+        "attendee_count": 140
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "E035",
+      "type": "event",
+      "name": "Robotics Lab Access Tier Briefing",
+      "properties": {
+        "date": "2026-09-07",
+        "domain": "Robotics",
+        "lead_email": "karan.malhotra@campustech.edu",
+        "attendee_count": 29
+      },
+      "source": "events.csv"
+    },
+    {
+      "id": "POL001",
+      "type": "policy",
+      "name": "Venue Booking Rules",
+      "properties": {
+        "manager": "Neha Bhatt",
+        "manager_id": "M009",
+        "final_approver_auditorium": "Ananya Roy",
+        "final_approver_id": "M001",
+        "advance_notice_days": 10,
+        "auditorium_capacity_threshold": 150,
+        "priority_domains": [
+          "Web Dev",
+          "AI/ML"
+        ],
+        "summary": "Auditorium booking (150+) requires sign-off from Committee Chair Ananya Roy; smaller rooms booked directly with domain leads. Prioritizes Web Dev and AI/ML events like Hackathon 2026."
+      },
+      "source": "policies.txt"
+    },
+    {
+      "id": "POL002",
+      "type": "policy",
+      "name": "Budget Allocation Limits",
+      "properties": {
+        "manager": "Arjun Kapoor",
+        "manager_id": "M006",
+        "overspend_approver": "Ananya Roy",
+        "approver_id": "M001",
+        "funding_cap_inr": 25000,
+        "high_budget_domains": [
+          "AI/ML",
+          "Cloud"
+        ],
+        "summary": "Treasurer Arjun Kapoor caps individual event funding at INR 25,000. AI/ML and Cloud receive largest shares. Overspend must be justified in writing to Arjun Kapoor and countersigned by Ananya Roy."
+      },
+      "source": "policies.txt"
+    },
+    {
+      "id": "POL003",
+      "type": "policy",
+      "name": "Lab Hardware Access Tiers",
+      "properties": {
+        "manager": "Karan Malhotra",
+        "manager_id": "M008",
+        "joint_approver_tier3": "Sneha Iyer",
+        "joint_approver_id": "M003",
+        "tiers": [
+          "Tier 1: General Access (Sensor kits & prototyping boards)",
+          "Tier 2: Supervised Access (Robotics arms & 3D printers - Karan Malhotra approval)",
+          "Tier 3: Restricted Access (GPU clusters - Joint approval: Karan Malhotra & Sneha Iyer)"
+        ],
+        "summary": "Lab Coordinator Karan Malhotra manages 3 tiers. Tier 2 requires Karan Malhotra approval. Tier 3 (Restricted Access) GPU clusters require joint approval from Karan Malhotra and AI/ML Lead Sneha Iyer."
+      },
+      "source": "policies.txt"
+    },
+    {
+      "id": "POL004",
+      "type": "policy",
+      "name": "Event Approval Workflow",
+      "properties": {
+        "manager": "Aditya Singh",
+        "manager_id": "M010",
+        "large_event_threshold": 100,
+        "large_event_approver": "Ananya Roy",
+        "approver_id": "M001",
+        "domain_reviewers": {
+          "Cloud": "Vikram Nair (M004)",
+          "Cybersecurity": "Divya Menon (M007)",
+          "Web Dev": "Priya Desai (M005)"
+        },
+        "summary": "Every event verified by Approvals Officer Aditya Singh. Cloud reviewed by Vikram Nair, Cybersecurity by Divya Menon, Web Dev by Priya Desai. Final approval for events exceeding 100 expected attendees rests with Committee Chair Ananya Roy."
+      },
+      "source": "policies.txt"
+    },
+    {
+      "id": "POL005",
+      "type": "policy",
+      "name": "Cross-Domain Collaboration Guidelines",
+      "properties": {
+        "mediator": "Rohan Mehta",
+        "mediator_id": "M002",
+        "audit_officers": [
+          "Neha Bhatt (M009)",
+          "Aditya Singh (M010)"
+        ],
+        "summary": "When events span multiple domains, leads of both domains must co-sign. Vice Chair Rohan Mehta mediates disputes over shared resources. Jointly logged by Neha Bhatt and Aditya Singh."
+      },
+      "source": "policies.txt"
+    }
+  ],
+  "edges": [
+    {
+      "id": "EDGE_M001_MEMBER_OF_D_AI_ML",
+      "source": "M001",
+      "target": "D_AI_ML",
+      "relation": "MEMBER_OF",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_AI_ML_HAS_MEMBER_M001",
+      "source": "D_AI_ML",
+      "target": "M001",
+      "relation": "HAS_MEMBER",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M001_MEMBER_OF_D_CLOUD",
+      "source": "M001",
+      "target": "D_CLOUD",
+      "relation": "MEMBER_OF",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_CLOUD_HAS_MEMBER_M001",
+      "source": "D_CLOUD",
+      "target": "M001",
+      "relation": "HAS_MEMBER",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M001_WORKS_ON_P_CAMPUS_AI_LAB_SETUP",
+      "source": "M001",
+      "target": "P_CAMPUS_AI_LAB_SETUP",
+      "relation": "WORKS_ON",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_CAMPUS_AI_LAB_SETUP_OWNED_BY_M001",
+      "source": "P_CAMPUS_AI_LAB_SETUP",
+      "target": "M001",
+      "relation": "OWNED_BY",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M001_WORKS_ON_P_CLOUD_CREDITS_PROGRAM",
+      "source": "M001",
+      "target": "P_CLOUD_CREDITS_PROGRAM",
+      "relation": "WORKS_ON",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_CLOUD_CREDITS_PROGRAM_OWNED_BY_M001",
+      "source": "P_CLOUD_CREDITS_PROGRAM",
+      "target": "M001",
+      "relation": "OWNED_BY",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M002_MEMBER_OF_D_WEB_DEV",
+      "source": "M002",
+      "target": "D_WEB_DEV",
+      "relation": "MEMBER_OF",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_WEB_DEV_HAS_MEMBER_M002",
+      "source": "D_WEB_DEV",
+      "target": "M002",
+      "relation": "HAS_MEMBER",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M002_MEMBER_OF_D_CYBERSECURITY",
+      "source": "M002",
+      "target": "D_CYBERSECURITY",
+      "relation": "MEMBER_OF",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_CYBERSECURITY_HAS_MEMBER_M002",
+      "source": "D_CYBERSECURITY",
+      "target": "M002",
+      "relation": "HAS_MEMBER",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M002_WORKS_ON_P_STUDENT_PORTAL_REVAMP",
+      "source": "M002",
+      "target": "P_STUDENT_PORTAL_REVAMP",
+      "relation": "WORKS_ON",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_STUDENT_PORTAL_REVAMP_OWNED_BY_M002",
+      "source": "P_STUDENT_PORTAL_REVAMP",
+      "target": "M002",
+      "relation": "OWNED_BY",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M002_WORKS_ON_P_SECURITY_AUDIT_DRIVE",
+      "source": "M002",
+      "target": "P_SECURITY_AUDIT_DRIVE",
+      "relation": "WORKS_ON",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_SECURITY_AUDIT_DRIVE_OWNED_BY_M002",
+      "source": "P_SECURITY_AUDIT_DRIVE",
+      "target": "M002",
+      "relation": "OWNED_BY",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M003_MEMBER_OF_D_AI_ML",
+      "source": "M003",
+      "target": "D_AI_ML",
+      "relation": "MEMBER_OF",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_AI_ML_HAS_MEMBER_M003",
+      "source": "D_AI_ML",
+      "target": "M003",
+      "relation": "HAS_MEMBER",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M003_MEMBER_OF_D_DATA_SCIENCE",
+      "source": "M003",
+      "target": "D_DATA_SCIENCE",
+      "relation": "MEMBER_OF",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_DATA_SCIENCE_HAS_MEMBER_M003",
+      "source": "D_DATA_SCIENCE",
+      "target": "M003",
+      "relation": "HAS_MEMBER",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M003_WORKS_ON_P_NLP_STUDY_GROUP",
+      "source": "M003",
+      "target": "P_NLP_STUDY_GROUP",
+      "relation": "WORKS_ON",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_NLP_STUDY_GROUP_OWNED_BY_M003",
+      "source": "P_NLP_STUDY_GROUP",
+      "target": "M003",
+      "relation": "OWNED_BY",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M003_WORKS_ON_P_KAGGLE_BOOTCAMP",
+      "source": "M003",
+      "target": "P_KAGGLE_BOOTCAMP",
+      "relation": "WORKS_ON",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_KAGGLE_BOOTCAMP_OWNED_BY_M003",
+      "source": "P_KAGGLE_BOOTCAMP",
+      "target": "M003",
+      "relation": "OWNED_BY",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M004_MEMBER_OF_D_CLOUD",
+      "source": "M004",
+      "target": "D_CLOUD",
+      "relation": "MEMBER_OF",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_CLOUD_HAS_MEMBER_M004",
+      "source": "D_CLOUD",
+      "target": "M004",
+      "relation": "HAS_MEMBER",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M004_MEMBER_OF_D_DEVOPS",
+      "source": "M004",
+      "target": "D_DEVOPS",
+      "relation": "MEMBER_OF",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_DEVOPS_HAS_MEMBER_M004",
+      "source": "D_DEVOPS",
+      "target": "M004",
+      "relation": "HAS_MEMBER",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M004_WORKS_ON_P_CLOUD_CREDITS_PROGRAM",
+      "source": "M004",
+      "target": "P_CLOUD_CREDITS_PROGRAM",
+      "relation": "WORKS_ON",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_CLOUD_CREDITS_PROGRAM_OWNED_BY_M004",
+      "source": "P_CLOUD_CREDITS_PROGRAM",
+      "target": "M004",
+      "relation": "OWNED_BY",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M004_WORKS_ON_P_K8S_WORKSHOP_SERIES",
+      "source": "M004",
+      "target": "P_K8S_WORKSHOP_SERIES",
+      "relation": "WORKS_ON",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_K8S_WORKSHOP_SERIES_OWNED_BY_M004",
+      "source": "P_K8S_WORKSHOP_SERIES",
+      "target": "M004",
+      "relation": "OWNED_BY",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M005_MEMBER_OF_D_WEB_DEV",
+      "source": "M005",
+      "target": "D_WEB_DEV",
+      "relation": "MEMBER_OF",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_WEB_DEV_HAS_MEMBER_M005",
+      "source": "D_WEB_DEV",
+      "target": "M005",
+      "relation": "HAS_MEMBER",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M005_WORKS_ON_P_STUDENT_PORTAL_REVAMP",
+      "source": "M005",
+      "target": "P_STUDENT_PORTAL_REVAMP",
+      "relation": "WORKS_ON",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_STUDENT_PORTAL_REVAMP_OWNED_BY_M005",
+      "source": "P_STUDENT_PORTAL_REVAMP",
+      "target": "M005",
+      "relation": "OWNED_BY",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M005_WORKS_ON_P_HACKATHON_2026",
+      "source": "M005",
+      "target": "P_HACKATHON_2026",
+      "relation": "WORKS_ON",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_HACKATHON_2026_OWNED_BY_M005",
+      "source": "P_HACKATHON_2026",
+      "target": "M005",
+      "relation": "OWNED_BY",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M006_MEMBER_OF_D_BUDGET_FINANCE",
+      "source": "M006",
+      "target": "D_BUDGET_FINANCE",
+      "relation": "MEMBER_OF",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_BUDGET_FINANCE_HAS_MEMBER_M006",
+      "source": "D_BUDGET_FINANCE",
+      "target": "M006",
+      "relation": "HAS_MEMBER",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M006_WORKS_ON_P_ANNUAL_BUDGET_REVIEW",
+      "source": "M006",
+      "target": "P_ANNUAL_BUDGET_REVIEW",
+      "relation": "WORKS_ON",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_ANNUAL_BUDGET_REVIEW_OWNED_BY_M006",
+      "source": "P_ANNUAL_BUDGET_REVIEW",
+      "target": "M006",
+      "relation": "OWNED_BY",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M007_MEMBER_OF_D_CYBERSECURITY",
+      "source": "M007",
+      "target": "D_CYBERSECURITY",
+      "relation": "MEMBER_OF",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_CYBERSECURITY_HAS_MEMBER_M007",
+      "source": "D_CYBERSECURITY",
+      "target": "M007",
+      "relation": "HAS_MEMBER",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M007_WORKS_ON_P_SECURITY_AUDIT_DRIVE",
+      "source": "M007",
+      "target": "P_SECURITY_AUDIT_DRIVE",
+      "relation": "WORKS_ON",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_SECURITY_AUDIT_DRIVE_OWNED_BY_M007",
+      "source": "P_SECURITY_AUDIT_DRIVE",
+      "target": "M007",
+      "relation": "OWNED_BY",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M007_WORKS_ON_P_CTF_CLUB",
+      "source": "M007",
+      "target": "P_CTF_CLUB",
+      "relation": "WORKS_ON",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_CTF_CLUB_OWNED_BY_M007",
+      "source": "P_CTF_CLUB",
+      "target": "M007",
+      "relation": "OWNED_BY",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M008_MEMBER_OF_D_ROBOTICS",
+      "source": "M008",
+      "target": "D_ROBOTICS",
+      "relation": "MEMBER_OF",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_ROBOTICS_HAS_MEMBER_M008",
+      "source": "D_ROBOTICS",
+      "target": "M008",
+      "relation": "HAS_MEMBER",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M008_MEMBER_OF_D_IOT",
+      "source": "M008",
+      "target": "D_IOT",
+      "relation": "MEMBER_OF",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_IOT_HAS_MEMBER_M008",
+      "source": "D_IOT",
+      "target": "M008",
+      "relation": "HAS_MEMBER",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M008_WORKS_ON_P_ROBOTICS_LAB_ACCESS_TIERS",
+      "source": "M008",
+      "target": "P_ROBOTICS_LAB_ACCESS_TIERS",
+      "relation": "WORKS_ON",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_ROBOTICS_LAB_ACCESS_TIERS_OWNED_BY_M008",
+      "source": "P_ROBOTICS_LAB_ACCESS_TIERS",
+      "target": "M008",
+      "relation": "OWNED_BY",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M008_WORKS_ON_P_IOT_SENSOR_KITS",
+      "source": "M008",
+      "target": "P_IOT_SENSOR_KITS",
+      "relation": "WORKS_ON",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_IOT_SENSOR_KITS_OWNED_BY_M008",
+      "source": "P_IOT_SENSOR_KITS",
+      "target": "M008",
+      "relation": "OWNED_BY",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M009_MEMBER_OF_D_AI_ML",
+      "source": "M009",
+      "target": "D_AI_ML",
+      "relation": "MEMBER_OF",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_AI_ML_HAS_MEMBER_M009",
+      "source": "D_AI_ML",
+      "target": "M009",
+      "relation": "HAS_MEMBER",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M009_MEMBER_OF_D_WEB_DEV",
+      "source": "M009",
+      "target": "D_WEB_DEV",
+      "relation": "MEMBER_OF",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_WEB_DEV_HAS_MEMBER_M009",
+      "source": "D_WEB_DEV",
+      "target": "M009",
+      "relation": "HAS_MEMBER",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M009_MEMBER_OF_D_CLOUD",
+      "source": "M009",
+      "target": "D_CLOUD",
+      "relation": "MEMBER_OF",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_CLOUD_HAS_MEMBER_M009",
+      "source": "D_CLOUD",
+      "target": "M009",
+      "relation": "HAS_MEMBER",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M009_WORKS_ON_P_HACKATHON_2026",
+      "source": "M009",
+      "target": "P_HACKATHON_2026",
+      "relation": "WORKS_ON",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_HACKATHON_2026_OWNED_BY_M009",
+      "source": "P_HACKATHON_2026",
+      "target": "M009",
+      "relation": "OWNED_BY",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M009_WORKS_ON_P_SPEAKER_SERIES",
+      "source": "M009",
+      "target": "P_SPEAKER_SERIES",
+      "relation": "WORKS_ON",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_SPEAKER_SERIES_OWNED_BY_M009",
+      "source": "P_SPEAKER_SERIES",
+      "target": "M009",
+      "relation": "OWNED_BY",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M010_MEMBER_OF_D_GOVERNANCE",
+      "source": "M010",
+      "target": "D_GOVERNANCE",
+      "relation": "MEMBER_OF",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_GOVERNANCE_HAS_MEMBER_M010",
+      "source": "D_GOVERNANCE",
+      "target": "M010",
+      "relation": "HAS_MEMBER",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M010_WORKS_ON_P_EVENT_APPROVAL_WORKFLOW_REVAMP",
+      "source": "M010",
+      "target": "P_EVENT_APPROVAL_WORKFLOW_REVAMP",
+      "relation": "WORKS_ON",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_EVENT_APPROVAL_WORKFLOW_REVAMP_OWNED_BY_M010",
+      "source": "P_EVENT_APPROVAL_WORKFLOW_REVAMP",
+      "target": "M010",
+      "relation": "OWNED_BY",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_CAMPUS_AI_LAB_SETUP_BELONGS_TO_D_AI_ML",
+      "source": "P_CAMPUS_AI_LAB_SETUP",
+      "target": "D_AI_ML",
+      "relation": "BELONGS_TO",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_AI_ML_HAS_PROJECT_P_CAMPUS_AI_LAB_SETUP",
+      "source": "D_AI_ML",
+      "target": "P_CAMPUS_AI_LAB_SETUP",
+      "relation": "HAS_PROJECT",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_CLOUD_CREDITS_PROGRAM_BELONGS_TO_D_CLOUD",
+      "source": "P_CLOUD_CREDITS_PROGRAM",
+      "target": "D_CLOUD",
+      "relation": "BELONGS_TO",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_CLOUD_HAS_PROJECT_P_CLOUD_CREDITS_PROGRAM",
+      "source": "D_CLOUD",
+      "target": "P_CLOUD_CREDITS_PROGRAM",
+      "relation": "HAS_PROJECT",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_STUDENT_PORTAL_REVAMP_BELONGS_TO_D_WEB_DEV",
+      "source": "P_STUDENT_PORTAL_REVAMP",
+      "target": "D_WEB_DEV",
+      "relation": "BELONGS_TO",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_WEB_DEV_HAS_PROJECT_P_STUDENT_PORTAL_REVAMP",
+      "source": "D_WEB_DEV",
+      "target": "P_STUDENT_PORTAL_REVAMP",
+      "relation": "HAS_PROJECT",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_SECURITY_AUDIT_DRIVE_BELONGS_TO_D_CYBERSECURITY",
+      "source": "P_SECURITY_AUDIT_DRIVE",
+      "target": "D_CYBERSECURITY",
+      "relation": "BELONGS_TO",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_CYBERSECURITY_HAS_PROJECT_P_SECURITY_AUDIT_DRIVE",
+      "source": "D_CYBERSECURITY",
+      "target": "P_SECURITY_AUDIT_DRIVE",
+      "relation": "HAS_PROJECT",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_NLP_STUDY_GROUP_BELONGS_TO_D_AI_ML",
+      "source": "P_NLP_STUDY_GROUP",
+      "target": "D_AI_ML",
+      "relation": "BELONGS_TO",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_AI_ML_HAS_PROJECT_P_NLP_STUDY_GROUP",
+      "source": "D_AI_ML",
+      "target": "P_NLP_STUDY_GROUP",
+      "relation": "HAS_PROJECT",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_KAGGLE_BOOTCAMP_BELONGS_TO_D_DATA_SCIENCE",
+      "source": "P_KAGGLE_BOOTCAMP",
+      "target": "D_DATA_SCIENCE",
+      "relation": "BELONGS_TO",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_DATA_SCIENCE_HAS_PROJECT_P_KAGGLE_BOOTCAMP",
+      "source": "D_DATA_SCIENCE",
+      "target": "P_KAGGLE_BOOTCAMP",
+      "relation": "HAS_PROJECT",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_K8S_WORKSHOP_SERIES_BELONGS_TO_D_DEVOPS",
+      "source": "P_K8S_WORKSHOP_SERIES",
+      "target": "D_DEVOPS",
+      "relation": "BELONGS_TO",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_DEVOPS_HAS_PROJECT_P_K8S_WORKSHOP_SERIES",
+      "source": "D_DEVOPS",
+      "target": "P_K8S_WORKSHOP_SERIES",
+      "relation": "HAS_PROJECT",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_HACKATHON_2026_BELONGS_TO_D_WEB_DEV",
+      "source": "P_HACKATHON_2026",
+      "target": "D_WEB_DEV",
+      "relation": "BELONGS_TO",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_WEB_DEV_HAS_PROJECT_P_HACKATHON_2026",
+      "source": "D_WEB_DEV",
+      "target": "P_HACKATHON_2026",
+      "relation": "HAS_PROJECT",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_ANNUAL_BUDGET_REVIEW_BELONGS_TO_D_BUDGET_FINANCE",
+      "source": "P_ANNUAL_BUDGET_REVIEW",
+      "target": "D_BUDGET_FINANCE",
+      "relation": "BELONGS_TO",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_BUDGET_FINANCE_HAS_PROJECT_P_ANNUAL_BUDGET_REVIEW",
+      "source": "D_BUDGET_FINANCE",
+      "target": "P_ANNUAL_BUDGET_REVIEW",
+      "relation": "HAS_PROJECT",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_CTF_CLUB_BELONGS_TO_D_CYBERSECURITY",
+      "source": "P_CTF_CLUB",
+      "target": "D_CYBERSECURITY",
+      "relation": "BELONGS_TO",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_CYBERSECURITY_HAS_PROJECT_P_CTF_CLUB",
+      "source": "D_CYBERSECURITY",
+      "target": "P_CTF_CLUB",
+      "relation": "HAS_PROJECT",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_ROBOTICS_LAB_ACCESS_TIERS_BELONGS_TO_D_ROBOTICS",
+      "source": "P_ROBOTICS_LAB_ACCESS_TIERS",
+      "target": "D_ROBOTICS",
+      "relation": "BELONGS_TO",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_ROBOTICS_HAS_PROJECT_P_ROBOTICS_LAB_ACCESS_TIERS",
+      "source": "D_ROBOTICS",
+      "target": "P_ROBOTICS_LAB_ACCESS_TIERS",
+      "relation": "HAS_PROJECT",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_IOT_SENSOR_KITS_BELONGS_TO_D_IOT",
+      "source": "P_IOT_SENSOR_KITS",
+      "target": "D_IOT",
+      "relation": "BELONGS_TO",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_IOT_HAS_PROJECT_P_IOT_SENSOR_KITS",
+      "source": "D_IOT",
+      "target": "P_IOT_SENSOR_KITS",
+      "relation": "HAS_PROJECT",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_SPEAKER_SERIES_BELONGS_TO_D_AI_ML",
+      "source": "P_SPEAKER_SERIES",
+      "target": "D_AI_ML",
+      "relation": "BELONGS_TO",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_AI_ML_HAS_PROJECT_P_SPEAKER_SERIES",
+      "source": "D_AI_ML",
+      "target": "P_SPEAKER_SERIES",
+      "relation": "HAS_PROJECT",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_P_EVENT_APPROVAL_WORKFLOW_REVAMP_BELONGS_TO_D_GOVERNANCE",
+      "source": "P_EVENT_APPROVAL_WORKFLOW_REVAMP",
+      "target": "D_GOVERNANCE",
+      "relation": "BELONGS_TO",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_D_GOVERNANCE_HAS_PROJECT_P_EVENT_APPROVAL_WORKFLOW_REVAMP",
+      "source": "D_GOVERNANCE",
+      "target": "P_EVENT_APPROVAL_WORKFLOW_REVAMP",
+      "relation": "HAS_PROJECT",
+      "source_file": "members.json"
+    },
+    {
+      "id": "EDGE_M003_LEADS_E001",
+      "source": "M003",
+      "target": "E001",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E001_LED_BY_M003",
+      "source": "E001",
+      "target": "M003",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E001_BELONGS_TO_D_AI_ML",
+      "source": "E001",
+      "target": "D_AI_ML",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_AI_ML_HAS_EVENT_E001",
+      "source": "D_AI_ML",
+      "target": "E001",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M005_LEADS_E002",
+      "source": "M005",
+      "target": "E002",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E002_LED_BY_M005",
+      "source": "E002",
+      "target": "M005",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E002_BELONGS_TO_D_WEB_DEV",
+      "source": "E002",
+      "target": "D_WEB_DEV",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_WEB_DEV_HAS_EVENT_E002",
+      "source": "D_WEB_DEV",
+      "target": "E002",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M004_LEADS_E003",
+      "source": "M004",
+      "target": "E003",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E003_LED_BY_M004",
+      "source": "E003",
+      "target": "M004",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E003_BELONGS_TO_D_CLOUD",
+      "source": "E003",
+      "target": "D_CLOUD",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_CLOUD_HAS_EVENT_E003",
+      "source": "D_CLOUD",
+      "target": "E003",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M007_LEADS_E004",
+      "source": "M007",
+      "target": "E004",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E004_LED_BY_M007",
+      "source": "E004",
+      "target": "M007",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E004_BELONGS_TO_D_CYBERSECURITY",
+      "source": "E004",
+      "target": "D_CYBERSECURITY",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_CYBERSECURITY_HAS_EVENT_E004",
+      "source": "D_CYBERSECURITY",
+      "target": "E004",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M003_LEADS_E005",
+      "source": "M003",
+      "target": "E005",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E005_LED_BY_M003",
+      "source": "E005",
+      "target": "M003",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E005_BELONGS_TO_D_AI_ML",
+      "source": "E005",
+      "target": "D_AI_ML",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_AI_ML_HAS_EVENT_E005",
+      "source": "D_AI_ML",
+      "target": "E005",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E005_PART_OF_PROJECT_P_KAGGLE_BOOTCAMP",
+      "source": "E005",
+      "target": "P_KAGGLE_BOOTCAMP",
+      "relation": "PART_OF_PROJECT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_P_KAGGLE_BOOTCAMP_HAS_EVENT_E005",
+      "source": "P_KAGGLE_BOOTCAMP",
+      "target": "E005",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M004_LEADS_E006",
+      "source": "M004",
+      "target": "E006",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E006_LED_BY_M004",
+      "source": "E006",
+      "target": "M004",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E006_BELONGS_TO_D_CLOUD",
+      "source": "E006",
+      "target": "D_CLOUD",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_CLOUD_HAS_EVENT_E006",
+      "source": "D_CLOUD",
+      "target": "E006",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E006_PART_OF_PROJECT_P_K8S_WORKSHOP_SERIES",
+      "source": "E006",
+      "target": "P_K8S_WORKSHOP_SERIES",
+      "relation": "PART_OF_PROJECT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_P_K8S_WORKSHOP_SERIES_HAS_EVENT_E006",
+      "source": "P_K8S_WORKSHOP_SERIES",
+      "target": "E006",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M005_LEADS_E007",
+      "source": "M005",
+      "target": "E007",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E007_LED_BY_M005",
+      "source": "E007",
+      "target": "M005",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E007_BELONGS_TO_D_WEB_DEV",
+      "source": "E007",
+      "target": "D_WEB_DEV",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_WEB_DEV_HAS_EVENT_E007",
+      "source": "D_WEB_DEV",
+      "target": "E007",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M008_LEADS_E008",
+      "source": "M008",
+      "target": "E008",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E008_LED_BY_M008",
+      "source": "E008",
+      "target": "M008",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E008_BELONGS_TO_D_ROBOTICS",
+      "source": "E008",
+      "target": "D_ROBOTICS",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_ROBOTICS_HAS_EVENT_E008",
+      "source": "D_ROBOTICS",
+      "target": "E008",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M008_LEADS_E009",
+      "source": "M008",
+      "target": "E009",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E009_LED_BY_M008",
+      "source": "E009",
+      "target": "M008",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E009_BELONGS_TO_D_IOT",
+      "source": "E009",
+      "target": "D_IOT",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_IOT_HAS_EVENT_E009",
+      "source": "D_IOT",
+      "target": "E009",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E009_PART_OF_PROJECT_P_IOT_SENSOR_KITS",
+      "source": "E009",
+      "target": "P_IOT_SENSOR_KITS",
+      "relation": "PART_OF_PROJECT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_P_IOT_SENSOR_KITS_HAS_EVENT_E009",
+      "source": "P_IOT_SENSOR_KITS",
+      "target": "E009",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M007_LEADS_E010",
+      "source": "M007",
+      "target": "E010",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E010_LED_BY_M007",
+      "source": "E010",
+      "target": "M007",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E010_BELONGS_TO_D_CYBERSECURITY",
+      "source": "E010",
+      "target": "D_CYBERSECURITY",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_CYBERSECURITY_HAS_EVENT_E010",
+      "source": "D_CYBERSECURITY",
+      "target": "E010",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E010_PART_OF_PROJECT_P_CTF_CLUB",
+      "source": "E010",
+      "target": "P_CTF_CLUB",
+      "relation": "PART_OF_PROJECT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_P_CTF_CLUB_HAS_EVENT_E010",
+      "source": "P_CTF_CLUB",
+      "target": "E010",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M003_LEADS_E011",
+      "source": "M003",
+      "target": "E011",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E011_LED_BY_M003",
+      "source": "E011",
+      "target": "M003",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E011_BELONGS_TO_D_AI_ML",
+      "source": "E011",
+      "target": "D_AI_ML",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_AI_ML_HAS_EVENT_E011",
+      "source": "D_AI_ML",
+      "target": "E011",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E011_PART_OF_PROJECT_P_NLP_STUDY_GROUP",
+      "source": "E011",
+      "target": "P_NLP_STUDY_GROUP",
+      "relation": "PART_OF_PROJECT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_P_NLP_STUDY_GROUP_HAS_EVENT_E011",
+      "source": "P_NLP_STUDY_GROUP",
+      "target": "E011",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M004_LEADS_E012",
+      "source": "M004",
+      "target": "E012",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E012_LED_BY_M004",
+      "source": "E012",
+      "target": "M004",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E012_BELONGS_TO_D_CLOUD",
+      "source": "E012",
+      "target": "D_CLOUD",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_CLOUD_HAS_EVENT_E012",
+      "source": "D_CLOUD",
+      "target": "E012",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M005_LEADS_E013",
+      "source": "M005",
+      "target": "E013",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E013_LED_BY_M005",
+      "source": "E013",
+      "target": "M005",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E013_BELONGS_TO_D_WEB_DEV",
+      "source": "E013",
+      "target": "D_WEB_DEV",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_WEB_DEV_HAS_EVENT_E013",
+      "source": "D_WEB_DEV",
+      "target": "E013",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M006_LEADS_E014",
+      "source": "M006",
+      "target": "E014",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E014_LED_BY_M006",
+      "source": "E014",
+      "target": "M006",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E014_BELONGS_TO_D_BUDGET_FINANCE",
+      "source": "E014",
+      "target": "D_BUDGET_FINANCE",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_BUDGET_FINANCE_HAS_EVENT_E014",
+      "source": "D_BUDGET_FINANCE",
+      "target": "E014",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E014_PART_OF_PROJECT_P_ANNUAL_BUDGET_REVIEW",
+      "source": "E014",
+      "target": "P_ANNUAL_BUDGET_REVIEW",
+      "relation": "PART_OF_PROJECT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_P_ANNUAL_BUDGET_REVIEW_HAS_EVENT_E014",
+      "source": "P_ANNUAL_BUDGET_REVIEW",
+      "target": "E014",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M009_LEADS_E015",
+      "source": "M009",
+      "target": "E015",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E015_LED_BY_M009",
+      "source": "E015",
+      "target": "M009",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E015_BELONGS_TO_D_WEB_DEV",
+      "source": "E015",
+      "target": "D_WEB_DEV",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_WEB_DEV_HAS_EVENT_E015",
+      "source": "D_WEB_DEV",
+      "target": "E015",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E015_PART_OF_PROJECT_P_HACKATHON_2026",
+      "source": "E015",
+      "target": "P_HACKATHON_2026",
+      "relation": "PART_OF_PROJECT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_P_HACKATHON_2026_HAS_EVENT_E015",
+      "source": "P_HACKATHON_2026",
+      "target": "E015",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M004_LEADS_E016",
+      "source": "M004",
+      "target": "E016",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E016_LED_BY_M004",
+      "source": "E016",
+      "target": "M004",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E016_BELONGS_TO_D_CLOUD",
+      "source": "E016",
+      "target": "D_CLOUD",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_CLOUD_HAS_EVENT_E016",
+      "source": "D_CLOUD",
+      "target": "E016",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E016_PART_OF_PROJECT_P_CLOUD_CREDITS_PROGRAM",
+      "source": "E016",
+      "target": "P_CLOUD_CREDITS_PROGRAM",
+      "relation": "PART_OF_PROJECT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_P_CLOUD_CREDITS_PROGRAM_HAS_EVENT_E016",
+      "source": "P_CLOUD_CREDITS_PROGRAM",
+      "target": "E016",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M001_LEADS_E017",
+      "source": "M001",
+      "target": "E017",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E017_LED_BY_M001",
+      "source": "E017",
+      "target": "M001",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E017_BELONGS_TO_D_AI_ML",
+      "source": "E017",
+      "target": "D_AI_ML",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_AI_ML_HAS_EVENT_E017",
+      "source": "D_AI_ML",
+      "target": "E017",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M007_LEADS_E018",
+      "source": "M007",
+      "target": "E018",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E018_LED_BY_M007",
+      "source": "E018",
+      "target": "M007",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E018_BELONGS_TO_D_CYBERSECURITY",
+      "source": "E018",
+      "target": "D_CYBERSECURITY",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_CYBERSECURITY_HAS_EVENT_E018",
+      "source": "D_CYBERSECURITY",
+      "target": "E018",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E018_PART_OF_PROJECT_P_SECURITY_AUDIT_DRIVE",
+      "source": "E018",
+      "target": "P_SECURITY_AUDIT_DRIVE",
+      "relation": "PART_OF_PROJECT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_P_SECURITY_AUDIT_DRIVE_HAS_EVENT_E018",
+      "source": "P_SECURITY_AUDIT_DRIVE",
+      "target": "E018",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M004_LEADS_E019",
+      "source": "M004",
+      "target": "E019",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E019_LED_BY_M004",
+      "source": "E019",
+      "target": "M004",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E019_BELONGS_TO_D_CLOUD",
+      "source": "E019",
+      "target": "D_CLOUD",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_CLOUD_HAS_EVENT_E019",
+      "source": "D_CLOUD",
+      "target": "E019",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M009_LEADS_E020",
+      "source": "M009",
+      "target": "E020",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E020_LED_BY_M009",
+      "source": "E020",
+      "target": "M009",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E020_BELONGS_TO_D_AI_ML",
+      "source": "E020",
+      "target": "D_AI_ML",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_AI_ML_HAS_EVENT_E020",
+      "source": "D_AI_ML",
+      "target": "E020",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E020_PART_OF_PROJECT_P_SPEAKER_SERIES",
+      "source": "E020",
+      "target": "P_SPEAKER_SERIES",
+      "relation": "PART_OF_PROJECT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_P_SPEAKER_SERIES_HAS_EVENT_E020",
+      "source": "P_SPEAKER_SERIES",
+      "target": "E020",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M008_LEADS_E021",
+      "source": "M008",
+      "target": "E021",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E021_LED_BY_M008",
+      "source": "E021",
+      "target": "M008",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E021_BELONGS_TO_D_ROBOTICS",
+      "source": "E021",
+      "target": "D_ROBOTICS",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_ROBOTICS_HAS_EVENT_E021",
+      "source": "D_ROBOTICS",
+      "target": "E021",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M005_LEADS_E022",
+      "source": "M005",
+      "target": "E022",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E022_LED_BY_M005",
+      "source": "E022",
+      "target": "M005",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E022_BELONGS_TO_D_WEB_DEV",
+      "source": "E022",
+      "target": "D_WEB_DEV",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_WEB_DEV_HAS_EVENT_E022",
+      "source": "D_WEB_DEV",
+      "target": "E022",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M007_LEADS_E023",
+      "source": "M007",
+      "target": "E023",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E023_LED_BY_M007",
+      "source": "E023",
+      "target": "M007",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E023_BELONGS_TO_D_CYBERSECURITY",
+      "source": "E023",
+      "target": "D_CYBERSECURITY",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_CYBERSECURITY_HAS_EVENT_E023",
+      "source": "D_CYBERSECURITY",
+      "target": "E023",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M003_LEADS_E024",
+      "source": "M003",
+      "target": "E024",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E024_LED_BY_M003",
+      "source": "E024",
+      "target": "M003",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E024_BELONGS_TO_D_DATA_SCIENCE",
+      "source": "E024",
+      "target": "D_DATA_SCIENCE",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_DATA_SCIENCE_HAS_EVENT_E024",
+      "source": "D_DATA_SCIENCE",
+      "target": "E024",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M008_LEADS_E025",
+      "source": "M008",
+      "target": "E025",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E025_LED_BY_M008",
+      "source": "E025",
+      "target": "M008",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E025_BELONGS_TO_D_IOT",
+      "source": "E025",
+      "target": "D_IOT",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_IOT_HAS_EVENT_E025",
+      "source": "D_IOT",
+      "target": "E025",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M004_LEADS_E026",
+      "source": "M004",
+      "target": "E026",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E026_LED_BY_M004",
+      "source": "E026",
+      "target": "M004",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E026_BELONGS_TO_D_CLOUD",
+      "source": "E026",
+      "target": "D_CLOUD",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_CLOUD_HAS_EVENT_E026",
+      "source": "D_CLOUD",
+      "target": "E026",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M010_LEADS_E027",
+      "source": "M010",
+      "target": "E027",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E027_LED_BY_M010",
+      "source": "E027",
+      "target": "M010",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E027_BELONGS_TO_D_GOVERNANCE",
+      "source": "E027",
+      "target": "D_GOVERNANCE",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_GOVERNANCE_HAS_EVENT_E027",
+      "source": "D_GOVERNANCE",
+      "target": "E027",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E027_PART_OF_PROJECT_P_EVENT_APPROVAL_WORKFLOW_REVAMP",
+      "source": "E027",
+      "target": "P_EVENT_APPROVAL_WORKFLOW_REVAMP",
+      "relation": "PART_OF_PROJECT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_P_EVENT_APPROVAL_WORKFLOW_REVAMP_HAS_EVENT_E027",
+      "source": "P_EVENT_APPROVAL_WORKFLOW_REVAMP",
+      "target": "E027",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M005_LEADS_E028",
+      "source": "M005",
+      "target": "E028",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E028_LED_BY_M005",
+      "source": "E028",
+      "target": "M005",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E028_BELONGS_TO_D_WEB_DEV",
+      "source": "E028",
+      "target": "D_WEB_DEV",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_WEB_DEV_HAS_EVENT_E028",
+      "source": "D_WEB_DEV",
+      "target": "E028",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E028_PART_OF_PROJECT_P_STUDENT_PORTAL_REVAMP",
+      "source": "E028",
+      "target": "P_STUDENT_PORTAL_REVAMP",
+      "relation": "PART_OF_PROJECT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_P_STUDENT_PORTAL_REVAMP_HAS_EVENT_E028",
+      "source": "P_STUDENT_PORTAL_REVAMP",
+      "target": "E028",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M007_LEADS_E029",
+      "source": "M007",
+      "target": "E029",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E029_LED_BY_M007",
+      "source": "E029",
+      "target": "M007",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E029_BELONGS_TO_D_CYBERSECURITY",
+      "source": "E029",
+      "target": "D_CYBERSECURITY",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_CYBERSECURITY_HAS_EVENT_E029",
+      "source": "D_CYBERSECURITY",
+      "target": "E029",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E029_PART_OF_PROJECT_P_CTF_CLUB",
+      "source": "E029",
+      "target": "P_CTF_CLUB",
+      "relation": "PART_OF_PROJECT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_P_CTF_CLUB_HAS_EVENT_E029",
+      "source": "P_CTF_CLUB",
+      "target": "E029",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M004_LEADS_E030",
+      "source": "M004",
+      "target": "E030",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E030_LED_BY_M004",
+      "source": "E030",
+      "target": "M004",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E030_BELONGS_TO_D_CLOUD",
+      "source": "E030",
+      "target": "D_CLOUD",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_CLOUD_HAS_EVENT_E030",
+      "source": "D_CLOUD",
+      "target": "E030",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E030_PART_OF_PROJECT_P_K8S_WORKSHOP_SERIES",
+      "source": "E030",
+      "target": "P_K8S_WORKSHOP_SERIES",
+      "relation": "PART_OF_PROJECT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_P_K8S_WORKSHOP_SERIES_HAS_EVENT_E030",
+      "source": "P_K8S_WORKSHOP_SERIES",
+      "target": "E030",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M001_LEADS_E031",
+      "source": "M001",
+      "target": "E031",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E031_LED_BY_M001",
+      "source": "E031",
+      "target": "M001",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E031_BELONGS_TO_D_AI_ML",
+      "source": "E031",
+      "target": "D_AI_ML",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_AI_ML_HAS_EVENT_E031",
+      "source": "D_AI_ML",
+      "target": "E031",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M010_LEADS_E032",
+      "source": "M010",
+      "target": "E032",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E032_LED_BY_M010",
+      "source": "E032",
+      "target": "M010",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E032_BELONGS_TO_D_GOVERNANCE",
+      "source": "E032",
+      "target": "D_GOVERNANCE",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_GOVERNANCE_HAS_EVENT_E032",
+      "source": "D_GOVERNANCE",
+      "target": "E032",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M006_LEADS_E033",
+      "source": "M006",
+      "target": "E033",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E033_LED_BY_M006",
+      "source": "E033",
+      "target": "M006",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E033_BELONGS_TO_D_BUDGET_FINANCE",
+      "source": "E033",
+      "target": "D_BUDGET_FINANCE",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_BUDGET_FINANCE_HAS_EVENT_E033",
+      "source": "D_BUDGET_FINANCE",
+      "target": "E033",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E033_PART_OF_PROJECT_P_ANNUAL_BUDGET_REVIEW",
+      "source": "E033",
+      "target": "P_ANNUAL_BUDGET_REVIEW",
+      "relation": "PART_OF_PROJECT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_P_ANNUAL_BUDGET_REVIEW_HAS_EVENT_E033",
+      "source": "P_ANNUAL_BUDGET_REVIEW",
+      "target": "E033",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M009_LEADS_E034",
+      "source": "M009",
+      "target": "E034",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E034_LED_BY_M009",
+      "source": "E034",
+      "target": "M009",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E034_BELONGS_TO_D_WEB_DEV",
+      "source": "E034",
+      "target": "D_WEB_DEV",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_WEB_DEV_HAS_EVENT_E034",
+      "source": "D_WEB_DEV",
+      "target": "E034",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E034_PART_OF_PROJECT_P_HACKATHON_2026",
+      "source": "E034",
+      "target": "P_HACKATHON_2026",
+      "relation": "PART_OF_PROJECT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_P_HACKATHON_2026_HAS_EVENT_E034",
+      "source": "P_HACKATHON_2026",
+      "target": "E034",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_M008_LEADS_E035",
+      "source": "M008",
+      "target": "E035",
+      "relation": "LEADS",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E035_LED_BY_M008",
+      "source": "E035",
+      "target": "M008",
+      "relation": "LED_BY",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E035_BELONGS_TO_D_ROBOTICS",
+      "source": "E035",
+      "target": "D_ROBOTICS",
+      "relation": "BELONGS_TO",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_D_ROBOTICS_HAS_EVENT_E035",
+      "source": "D_ROBOTICS",
+      "target": "E035",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_E035_PART_OF_PROJECT_P_ROBOTICS_LAB_ACCESS_TIERS",
+      "source": "E035",
+      "target": "P_ROBOTICS_LAB_ACCESS_TIERS",
+      "relation": "PART_OF_PROJECT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_P_ROBOTICS_LAB_ACCESS_TIERS_HAS_EVENT_E035",
+      "source": "P_ROBOTICS_LAB_ACCESS_TIERS",
+      "target": "E035",
+      "relation": "HAS_EVENT",
+      "source_file": "events.csv"
+    },
+    {
+      "id": "EDGE_POL001_MANAGED_BY_M009",
+      "source": "POL001",
+      "target": "M009",
+      "relation": "MANAGED_BY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_M009_MANAGES_POL001",
+      "source": "M009",
+      "target": "POL001",
+      "relation": "MANAGES",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL001_FINAL_APPROVER_M001",
+      "source": "POL001",
+      "target": "M001",
+      "relation": "FINAL_APPROVER",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_M001_FINAL_APPROVER_OF_POL001",
+      "source": "M001",
+      "target": "POL001",
+      "relation": "FINAL_APPROVER_OF",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL001_APPLIES_TO_D_WEB_DEV",
+      "source": "POL001",
+      "target": "D_WEB_DEV",
+      "relation": "APPLIES_TO",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_D_WEB_DEV_HAS_POLICY_POL001",
+      "source": "D_WEB_DEV",
+      "target": "POL001",
+      "relation": "HAS_POLICY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL001_APPLIES_TO_D_AI_ML",
+      "source": "POL001",
+      "target": "D_AI_ML",
+      "relation": "APPLIES_TO",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_D_AI_ML_HAS_POLICY_POL001",
+      "source": "D_AI_ML",
+      "target": "POL001",
+      "relation": "HAS_POLICY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL001_MENTIONS_E015",
+      "source": "POL001",
+      "target": "E015",
+      "relation": "MENTIONS",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_E015_GOVERNED_BY_POL001",
+      "source": "E015",
+      "target": "POL001",
+      "relation": "GOVERNED_BY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL002_MANAGED_BY_M006",
+      "source": "POL002",
+      "target": "M006",
+      "relation": "MANAGED_BY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_M006_MANAGES_POL002",
+      "source": "M006",
+      "target": "POL002",
+      "relation": "MANAGES",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL002_FINAL_APPROVER_M001",
+      "source": "POL002",
+      "target": "M001",
+      "relation": "FINAL_APPROVER",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_M001_FINAL_APPROVER_OF_POL002",
+      "source": "M001",
+      "target": "POL002",
+      "relation": "FINAL_APPROVER_OF",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL002_APPLIES_TO_D_BUDGET_FINANCE",
+      "source": "POL002",
+      "target": "D_BUDGET_FINANCE",
+      "relation": "APPLIES_TO",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_D_BUDGET_FINANCE_HAS_POLICY_POL002",
+      "source": "D_BUDGET_FINANCE",
+      "target": "POL002",
+      "relation": "HAS_POLICY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL002_APPLIES_TO_D_AI_ML",
+      "source": "POL002",
+      "target": "D_AI_ML",
+      "relation": "APPLIES_TO",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_D_AI_ML_HAS_POLICY_POL002",
+      "source": "D_AI_ML",
+      "target": "POL002",
+      "relation": "HAS_POLICY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL002_APPLIES_TO_D_CLOUD",
+      "source": "POL002",
+      "target": "D_CLOUD",
+      "relation": "APPLIES_TO",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_D_CLOUD_HAS_POLICY_POL002",
+      "source": "D_CLOUD",
+      "target": "POL002",
+      "relation": "HAS_POLICY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL002_APPLIES_TO_D_WEB_DEV",
+      "source": "POL002",
+      "target": "D_WEB_DEV",
+      "relation": "APPLIES_TO",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_D_WEB_DEV_HAS_POLICY_POL002",
+      "source": "D_WEB_DEV",
+      "target": "POL002",
+      "relation": "HAS_POLICY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL002_APPLIES_TO_D_CYBERSECURITY",
+      "source": "POL002",
+      "target": "D_CYBERSECURITY",
+      "relation": "APPLIES_TO",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_D_CYBERSECURITY_HAS_POLICY_POL002",
+      "source": "D_CYBERSECURITY",
+      "target": "POL002",
+      "relation": "HAS_POLICY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL002_APPLIES_TO_D_ROBOTICS",
+      "source": "POL002",
+      "target": "D_ROBOTICS",
+      "relation": "APPLIES_TO",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_D_ROBOTICS_HAS_POLICY_POL002",
+      "source": "D_ROBOTICS",
+      "target": "POL002",
+      "relation": "HAS_POLICY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL002_APPLIES_TO_D_IOT",
+      "source": "POL002",
+      "target": "D_IOT",
+      "relation": "APPLIES_TO",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_D_IOT_HAS_POLICY_POL002",
+      "source": "D_IOT",
+      "target": "POL002",
+      "relation": "HAS_POLICY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL002_MENTIONS_E014",
+      "source": "POL002",
+      "target": "E014",
+      "relation": "MENTIONS",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_E014_GOVERNED_BY_POL002",
+      "source": "E014",
+      "target": "POL002",
+      "relation": "GOVERNED_BY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL003_MANAGED_BY_M008",
+      "source": "POL003",
+      "target": "M008",
+      "relation": "MANAGED_BY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_M008_MANAGES_POL003",
+      "source": "M008",
+      "target": "POL003",
+      "relation": "MANAGES",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL003_JOINT_APPROVER_M003",
+      "source": "POL003",
+      "target": "M003",
+      "relation": "JOINT_APPROVER",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_M003_JOINT_APPROVER_OF_POL003",
+      "source": "M003",
+      "target": "POL003",
+      "relation": "JOINT_APPROVER_OF",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL003_APPLIES_TO_D_ROBOTICS",
+      "source": "POL003",
+      "target": "D_ROBOTICS",
+      "relation": "APPLIES_TO",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_D_ROBOTICS_HAS_POLICY_POL003",
+      "source": "D_ROBOTICS",
+      "target": "POL003",
+      "relation": "HAS_POLICY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL003_APPLIES_TO_D_IOT",
+      "source": "POL003",
+      "target": "D_IOT",
+      "relation": "APPLIES_TO",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_D_IOT_HAS_POLICY_POL003",
+      "source": "D_IOT",
+      "target": "POL003",
+      "relation": "HAS_POLICY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL003_APPLIES_TO_D_AI_ML",
+      "source": "POL003",
+      "target": "D_AI_ML",
+      "relation": "APPLIES_TO",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_D_AI_ML_HAS_POLICY_POL003",
+      "source": "D_AI_ML",
+      "target": "POL003",
+      "relation": "HAS_POLICY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL003_MENTIONS_P_ROBOTICS_LAB_ACCESS_TIERS",
+      "source": "POL003",
+      "target": "P_ROBOTICS_LAB_ACCESS_TIERS",
+      "relation": "MENTIONS",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_P_ROBOTICS_LAB_ACCESS_TIERS_GOVERNED_BY_POL003",
+      "source": "P_ROBOTICS_LAB_ACCESS_TIERS",
+      "target": "POL003",
+      "relation": "GOVERNED_BY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL003_MENTIONS_P_CAMPUS_AI_LAB_SETUP",
+      "source": "POL003",
+      "target": "P_CAMPUS_AI_LAB_SETUP",
+      "relation": "MENTIONS",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_P_CAMPUS_AI_LAB_SETUP_GOVERNED_BY_POL003",
+      "source": "P_CAMPUS_AI_LAB_SETUP",
+      "target": "POL003",
+      "relation": "GOVERNED_BY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL004_MANAGED_BY_M010",
+      "source": "POL004",
+      "target": "M010",
+      "relation": "MANAGED_BY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_M010_MANAGES_POL004",
+      "source": "M010",
+      "target": "POL004",
+      "relation": "MANAGES",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL004_FINAL_APPROVER_M001",
+      "source": "POL004",
+      "target": "M001",
+      "relation": "FINAL_APPROVER",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_M001_FINAL_APPROVER_OF_POL004",
+      "source": "M001",
+      "target": "POL004",
+      "relation": "FINAL_APPROVER_OF",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL004_TECHNICAL_REVIEWER_M004",
+      "source": "POL004",
+      "target": "M004",
+      "relation": "TECHNICAL_REVIEWER",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_M004_REVIEWS_FOR_POL004",
+      "source": "M004",
+      "target": "POL004",
+      "relation": "REVIEWS_FOR",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL004_TECHNICAL_REVIEWER_M007",
+      "source": "POL004",
+      "target": "M007",
+      "relation": "TECHNICAL_REVIEWER",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_M007_REVIEWS_FOR_POL004",
+      "source": "M007",
+      "target": "POL004",
+      "relation": "REVIEWS_FOR",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL004_TECHNICAL_REVIEWER_M005",
+      "source": "POL004",
+      "target": "M005",
+      "relation": "TECHNICAL_REVIEWER",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_M005_REVIEWS_FOR_POL004",
+      "source": "M005",
+      "target": "POL004",
+      "relation": "REVIEWS_FOR",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL004_APPLIES_TO_D_GOVERNANCE",
+      "source": "POL004",
+      "target": "D_GOVERNANCE",
+      "relation": "APPLIES_TO",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_D_GOVERNANCE_HAS_POLICY_POL004",
+      "source": "D_GOVERNANCE",
+      "target": "POL004",
+      "relation": "HAS_POLICY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL004_MENTIONS_E015",
+      "source": "POL004",
+      "target": "E015",
+      "relation": "MENTIONS",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_E015_GOVERNED_BY_POL004",
+      "source": "E015",
+      "target": "POL004",
+      "relation": "GOVERNED_BY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL004_MENTIONS_E020",
+      "source": "POL004",
+      "target": "E020",
+      "relation": "MENTIONS",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_E020_GOVERNED_BY_POL004",
+      "source": "E020",
+      "target": "POL004",
+      "relation": "GOVERNED_BY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL004_MENTIONS_E034",
+      "source": "POL004",
+      "target": "E034",
+      "relation": "MENTIONS",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_E034_GOVERNED_BY_POL004",
+      "source": "E034",
+      "target": "POL004",
+      "relation": "GOVERNED_BY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL005_MEDIATED_BY_M002",
+      "source": "POL005",
+      "target": "M002",
+      "relation": "MEDIATED_BY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_M002_MEDIATES_POL005",
+      "source": "M002",
+      "target": "POL005",
+      "relation": "MEDIATES",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL005_AUDITED_BY_M009",
+      "source": "POL005",
+      "target": "M009",
+      "relation": "AUDITED_BY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_M009_AUDITS_POL005",
+      "source": "M009",
+      "target": "POL005",
+      "relation": "AUDITS",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL005_AUDITED_BY_M010",
+      "source": "POL005",
+      "target": "M010",
+      "relation": "AUDITED_BY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_M010_AUDITS_POL005",
+      "source": "M010",
+      "target": "POL005",
+      "relation": "AUDITS",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL005_APPLIES_TO_D_GOVERNANCE",
+      "source": "POL005",
+      "target": "D_GOVERNANCE",
+      "relation": "APPLIES_TO",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_D_GOVERNANCE_HAS_POLICY_POL005",
+      "source": "D_GOVERNANCE",
+      "target": "POL005",
+      "relation": "HAS_POLICY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL005_APPLIES_TO_D_AI_ML",
+      "source": "POL005",
+      "target": "D_AI_ML",
+      "relation": "APPLIES_TO",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_D_AI_ML_HAS_POLICY_POL005",
+      "source": "D_AI_ML",
+      "target": "POL005",
+      "relation": "HAS_POLICY",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_POL005_APPLIES_TO_D_CLOUD",
+      "source": "POL005",
+      "target": "D_CLOUD",
+      "relation": "APPLIES_TO",
+      "source_file": "policies.txt"
+    },
+    {
+      "id": "EDGE_D_CLOUD_HAS_POLICY_POL005",
+      "source": "D_CLOUD",
+      "target": "POL005",
+      "relation": "HAS_POLICY",
+      "source_file": "policies.txt"
+    }
+  ],
+  "metadata": {
+    "total_nodes": 74,
+    "total_edges": 346,
+    "members_count": 10,
+    "events_count": 35,
+    "domains_count": 10,
+    "projects_count": 14,
+    "policies_count": 5,
+    "generated_at": "2026-09-09T23:15:00Z"
+  }
+}

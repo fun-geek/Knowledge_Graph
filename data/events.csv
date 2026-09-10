@@ -1,0 +1,36 @@
+event_id,event_name,date,domain,lead_email,attendee_count
+E001,Intro to Neural Networks Workshop,2026-01-12,AI/ML,sneha.iyer@campustech.edu,85
+E002,React Fundamentals Bootcamp,2026-01-19,Web Dev,priya.desai@campustech.edu,60
+E003,AWS Cloud Essentials Talk,2026-01-26,Cloud,vikram.nair@campustech.edu,70
+E004,Ethical Hacking 101,2026-02-02,Cybersecurity,divya.menon@campustech.edu,55
+E005,Kaggle Competition Kickoff,2026-02-09,AI/ML,sneha.iyer@campustech.edu,40
+E006,Kubernetes Deep Dive,2026-02-16,Cloud,vikram.nair@campustech.edu,50
+E007,Full Stack Hackathon Prep,2026-02-23,Web Dev,priya.desai@campustech.edu,90
+E008,Robotics Lab Open House,2026-03-02,Robotics,karan.malhotra@campustech.edu,45
+E009,IoT Sensor Kit Build Day,2026-03-09,IoT,karan.malhotra@campustech.edu,38
+E010,Capture The Flag Night,2026-03-16,Cybersecurity,divya.menon@campustech.edu,65
+E011,NLP Study Group Session 3,2026-03-23,AI/ML,sneha.iyer@campustech.edu,30
+E012,Serverless Architecture Talk,2026-03-30,Cloud,vikram.nair@campustech.edu,42
+E013,Frontend Design Systems Workshop,2026-04-06,Web Dev,priya.desai@campustech.edu,58
+E014,Annual Budget Planning Session,2026-04-13,Budget & Finance,arjun.kapoor@campustech.edu,20
+E015,Hackathon 2026 Opening Ceremony,2026-04-20,Web Dev,neha.bhatt@campustech.edu,150
+E016,Cloud Credits Program Info Day,2026-04-27,Cloud,vikram.nair@campustech.edu,48
+E017,AI Ethics Panel Discussion,2026-05-04,AI/ML,ananya.roy@campustech.edu,75
+E018,Security Audit Findings Review,2026-05-11,Cybersecurity,divya.menon@campustech.edu,35
+E019,Docker & CI/CD Pipeline Workshop,2026-05-18,Cloud,vikram.nair@campustech.edu,52
+E020,Speaker Series: Careers in ML,2026-05-25,AI/ML,neha.bhatt@campustech.edu,110
+E021,Robotics Arm Programming Lab,2026-06-01,Robotics,karan.malhotra@campustech.edu,33
+E022,Web Accessibility Best Practices,2026-06-08,Web Dev,priya.desai@campustech.edu,40
+E023,Vulnerability Scanning Clinic,2026-06-15,Cybersecurity,divya.menon@campustech.edu,28
+E024,Data Science Career Fair,2026-06-22,Data Science,sneha.iyer@campustech.edu,95
+E025,IoT Home Automation Demo,2026-06-29,IoT,karan.malhotra@campustech.edu,37
+E026,Cloud Cost Optimization Talk,2026-07-06,Cloud,vikram.nair@campustech.edu,44
+E027,Event Approval Workflow Training,2026-07-13,Governance,aditya.singh@campustech.edu,25
+E028,Student Portal Revamp Demo Day,2026-07-20,Web Dev,priya.desai@campustech.edu,62
+E029,CTF Club Monthly Meetup,2026-07-27,Cybersecurity,divya.menon@campustech.edu,30
+E030,K8s Workshop Series Finale,2026-08-03,Cloud,vikram.nair@campustech.edu,54
+E031,AI in Healthcare Seminar,2026-08-10,AI/ML,ananya.roy@campustech.edu,80
+E032,Governance & Policy Roundtable,2026-08-17,Governance,aditya.singh@campustech.edu,22
+E033,Budget Allocation Q3 Review,2026-08-24,Budget & Finance,arjun.kapoor@campustech.edu,18
+E034,Hackathon 2026 Finale,2026-08-31,Web Dev,neha.bhatt@campustech.edu,140
+E035,Robotics Lab Access Tier Briefing,2026-09-07,Robotics,karan.malhotra@campustech.edu,29

@@ -1,0 +1,16 @@
+CAMPUS TECHNICAL COMMITTEE — OPERATING POLICIES
+
+1. Venue Booking Rules
+All venue bookings for committee events must be submitted at least 10 working days in advance through the Events Coordinator, Neha Bhatt (neha.bhatt@campustech.edu). Requests for the Main Auditorium (capacity 150+) require sign-off from Committee Chair Ananya Roy (ananya.roy@campustech.edu), while smaller lab rooms and seminar halls can be booked directly with the relevant domain lead. Web Dev and AI/ML events historically draw the largest crowds, so Neha Bhatt prioritizes auditorium slots for events tagged under these domains, such as the Hackathon 2026 series.
+
+2. Budget Allocation Limits
+The Treasurer, Arjun Kapoor (arjun.kapoor@campustech.edu), oversees all budget disbursements and caps individual event funding at INR 25,000 unless pre-approved during the Annual Budget Planning Session. Domains are allocated quarterly budgets as follows: AI/ML and Cloud each receive the largest share due to hardware and compute costs, Web Dev and Cybersecurity receive moderate allocations for tooling and workshop materials, and emerging domains like Robotics and IoT operate under a shared discretionary pool. Any overspend must be justified in writing to Arjun Kapoor and countersigned by Ananya Roy.
+
+3. Lab Hardware Access Tiers
+Lab Coordinator Karan Malhotra (karan.malhotra@campustech.edu) manages a three-tier access system for Robotics and IoT lab hardware. Tier 1 (General Access) is available to all committee members for basic sensor kits and prototyping boards. Tier 2 (Supervised Access) covers robotics arms and 3D printers, requiring a booking slot approved by Karan Malhotra. Tier 3 (Restricted Access) applies to high-value equipment such as GPU clusters shared with the AI/ML domain, and requires joint approval from Karan Malhotra and AI/ML Lead Sneha Iyer (sneha.iyer@campustech.edu).
+
+4. Event Approval Workflow
+Every proposed event must pass through the Approvals Officer, Aditya Singh (aditya.singh@campustech.edu), who verifies domain classification, budget alignment, and venue availability before forwarding the request to the relevant domain lead for technical sign-off. Cloud domain events are reviewed by Vikram Nair (vikram.nair@campustech.edu), Cybersecurity events by Divya Menon (divya.menon@campustech.edu), and Web Dev events by Priya Desai (priya.desai@campustech.edu). Final approval for any event exceeding 100 expected attendees, such as the Hackathon 2026 opening ceremony, rests with Committee Chair Ananya Roy.
+
+5. Cross-Domain Collaboration Guidelines
+When an event spans multiple domains — for example, a Cloud-hosted AI/ML training pipeline demo — the leads of both domains must co-sign the approval request. Vice Chair Rohan Mehta (rohan.mehta@campustech.edu) mediates disputes between domain leads over shared resources or scheduling conflicts. All cross-domain events are logged jointly by Neha Bhatt and Aditya Singh to maintain a clear audit trail for the committee's quarterly review.
